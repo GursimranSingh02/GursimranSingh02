@@ -23,6 +23,10 @@ Welcome to my GitHub profile!
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%234285F4.svg?style=for-the-badge&logo=python&logoColor=white)  
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23006E8C.svg?style=for-the-badge&logo=python&logoColor=white)  
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%234285F4.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-%23006E8C.svg?style=for-the-badge&logo=Seaborn&logoColor=white)  
+
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ### 🤖 Machine Learning Frameworks  
