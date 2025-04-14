@@ -3,17 +3,10 @@
 Welcome to my GitHub profile!
 
 
-[![Static Text](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=1&pause=999999&color=FFD700&vCenter=true&width=280&lines=Currently+working+on+domains+.+.+.)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1000&vCenter=true&random=false&width=500&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Data+Science;Data+Analytics&color=FFD700)](https://git.io/typing-svg)
-
-
-
 
 [![Static Text](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=1&pause=999999&color=FFD700&vCenter=true&width=420&lines=Currently+working+on+domains+.+.+.)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1000&vCenter=true&random=false&width=500&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Data+Science;Data+Analytics&color=FFD700)](https://git.io/typing-svg)
-
 
 
 
